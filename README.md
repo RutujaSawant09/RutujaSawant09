@@ -38,25 +38,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
-
-## 💼 Cloud Projects
-
-> 🚀 All projects are available on [my GitHub](https://github.com/RutujaSawant09)
-
-- *🟡 AWS EC2 + S3 Terraform Project*  
-  Deploy EC2 instance and S3 bucket with full automation using Terraform  
-
-- *🟠 LocalStack Cloud Simulation*  
-  Run AWS services locally using Docker + LocalStack for development/testing  
-
-- *🔵 CI/CD Pipeline with GitHub Actions*  
-  Automate deployment and testing of cloud applications  
-
-- *🟢 Dockerized Flask App on AWS EC2*  
-  Containerized a Flask app and deployed it on AWS EC2 using SSH and Docker  
-
----
 
 ## 📊 GitHub Stats
 
